@@ -1,13 +1,16 @@
 # jeremycadams.github.io
 My software projects overview page
 
-Projects I began:
+## Projects I have built:
 
-https://github.com/ColumbusStateWorkforceInnovation/cscc_ada
+* [https://github.com/ColumbusStateWorkforceInnovation/cscc_ada](https://github.com/ColumbusStateWorkforceInnovation/cscc_ada)
+* [https://github.com/jeremycadams/16competencies](https://github.com/jeremycadams/16competencies)
 
-Projects I have contributed to:
+## Projects I have contributed to:
 
-https://github.com/ColumbusStateWorkforceInnovation/scripting-with-python
+* [https://github.com/ColumbusStateWorkforceInnovation/scripting-with-python](https://github.com/ColumbusStateWorkforceInnovation/scripting-with-python)
+* [https://github.com/jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub)
+
 
 
 
